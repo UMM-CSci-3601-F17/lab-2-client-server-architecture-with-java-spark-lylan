@@ -131,7 +131,7 @@ builds of your project every time you push to GitHub.
 This is very helpful, as it makes keeping track of your testing 
 over the lifetime of a project very easy. Having a build/test 
 history makes it easy to find where, or when, your project broke,
-which makes it a lot easier to figure out _why_ it broke and get
+which makes it a lothttps://travis-ci.org/ easier to figure out _why_ it broke and get
 it fixed and building successfully again.
 
 Any open-source, public project on GitHub can use Travis CI for
@@ -231,3 +231,5 @@ Then, run tasks like:
 [travis]: https://travis-ci.org/
 [travis-java]: https://docs.travis-ci.com/user/languages/java/
 [travis-yml]: .travis.yml
+
+This file has been edited to spark a TravisCl event.
